@@ -28,7 +28,7 @@ const algolia = async (name) => {
 };
 
 /* const cdn = async lib => {
-    const res = await fetch(`https://cdnjs.cloudflare.com/ajax/libs/${encodeURIComponent(lib)}/package.json`);
+    const res = await fetch(`https://cdnjs.fallsoft.cn/ajax/libs/${encodeURIComponent(lib)}/package.json`);
     return res.json();
 }; */
 
