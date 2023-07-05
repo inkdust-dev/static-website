@@ -5,6 +5,8 @@
 <h3 align="center">The #1 free and open source CDN built to make life easier for developers.</h3>
 
 ---
+## Mirror CDNJS
+https://cdnjs.fallsoft.cn/
 
 ## cdnjs Website
 
