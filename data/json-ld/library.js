@@ -1,7 +1,7 @@
 import { getAssets } from '../../util/get_asset';
 
 export default (base, library, libraryName) => {
-    let downloadUrl = library.filename ? `https://cdnjs.cloudflare.com/ajax/libs/${libraryName}/${library.version}/${library.filename}` : undefined;
+    let downloadUrl = library.filename ? `https://cdnjs.fallsoft.cn/ajax/libs/${libraryName}/${library.version}/${library.filename}` : undefined;
     let softwareVersion = library.version;
 
     // This shouldn't ever be used as we don't fetch library.assets,
